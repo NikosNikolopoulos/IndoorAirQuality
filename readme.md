@@ -6,7 +6,7 @@
   - PM2.5 ~ [μg/m3]
   - Temperature ~ [°C]
   - Humidity ~ [%]
-- [x] Dividing data points depending on the health level of the corresponding IAQ index. For this process the following table was utilized. 
+- [x] Dividing data points depending on the health level of the corresponding IAQ index. For this process the following table was utilized.
   
     |     PM2.5     |    AQI      |            Health Level         |
     |---------------|:-----------:|--------------------------------:|
@@ -17,6 +17,7 @@
     | 150.5 ~ 250.4 |   201 ~ 300 |  Very unhealthy                 |
     | 250.5 ~ 350.4 |   301 ~ 400 |  Hazardous                      |
     | 350.5 ~ 500.4 |   401 ~ 500 |  Hazardous                      |
+- [x] A highlight demonstrating the plots produced is available by clicking [here](/Figures/IAQData.png).  
 
 ## References
 [1] https://github.com/SophonAlpha/visualise-IAQ-data
