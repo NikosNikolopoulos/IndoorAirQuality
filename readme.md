@@ -17,7 +17,9 @@
     | 150.5 ~ 250.4 |   201 ~ 300 |  Very unhealthy                 |
     | 250.5 ~ 350.4 |   301 ~ 400 |  Hazardous                      |
     | 350.5 ~ 500.4 |   401 ~ 500 |  Hazardous                      |
-- [x] A highlight demonstrating the plots produced is available by clicking [here](/Figures/IAQData.png).  
+- [x] A highlight demonstrating the plots produced is available below: 
+
+![IAQ Data](/Figures/IAQData.png).  
 
 ## References
 [1] https://github.com/SophonAlpha/visualise-IAQ-data
